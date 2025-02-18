@@ -25,7 +25,7 @@ A simple yet secure password generator implemented in Python. This tool generate
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/yourusername/secure-password-generator.git
+   git clone https://github.com/MegaByteKnight/secure-password-generator.git
    cd secure-password-generator
    ```
 
